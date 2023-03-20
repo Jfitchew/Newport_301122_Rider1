@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: "Newport 30/11/22 (Rider 1) "
+title: "Newport 30/11/22 (Rider 1) "
 ---
 
 - [Data Validation](CleanedByBR/)
