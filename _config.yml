@@ -15,7 +15,7 @@ incremental: false
 title: 'Body Rocket Data Analysis'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Newport Velodrome - 30th Nov 2022'
+slogan: 'Newport Velodrome - 30th Nov 2022 (Rider 1)'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: 'Analysis of the data collected by the Body Rocket system at Newport Velodrome, Wales'
