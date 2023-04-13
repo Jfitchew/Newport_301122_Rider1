@@ -1,18 +1,19 @@
 # Rider Settings
-RIDER_WEIGHT: 79.3
+RIDER_WEIGHT: 80.0    # from Total Weight plot
 
 # Bike settings
-BIKE_WEIGHT: 11.1     # without rod+discs
-ROD_DISC_WEIGHT: 0.3  # ??
-CRR: 0.0025           # check what BR have set this too for their data processing
-BIKE_DTL: 4.0         # % loss to drive train 
+BIKE_WEIGHT: 11.1     # BMC bike without rod+discs
+ROD_DISC_WEIGHT: 0.25 # Rod with 2x T-Clamp = 183.1g, 100mm discs with T-Clamp = 60.5g (Total 244g)  40mm discs with T-Clamp = 38.5g
+
+CRR: 0.0025           # BR setting (see summary.csv files)
+BIKE_DTL: 4.0         # Anna accidentally set this to 2% (see summary.csv files)! 
 
 # Wheel settings usually refer to the front wheel where the speed sensor is positioned 
 WHEEL_CIRC_ACTUAL: 2096
 WHEEL_CIRC_BR_SETTING: 2096  
 REAR_WHEEL_CIRC: 2100   # needed for determining speeds from cadence and crank angle delta
 CHAINRING: 50.0         # could change!
-SPROCKET: 15            # NOT actually using fixed value as it may change between (and in!) test runs! (see code under Add MORE FIELDS where sprocket is calculated)
+SPROCKET: 14            # from Cadence vs Ground Speed (could change gear! see code under "Add MORE FIELDS" where sprocket can be calculated)
 
 # Height settings
 COM_HEIGHT: 1.1         # using saddle height for Centre of Mass for both rider and bike (saddle was actually 1.02)

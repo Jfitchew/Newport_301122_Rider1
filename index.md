@@ -8,15 +8,8 @@ title: "Newport 30/11/22 (Rider 1) "
 
 
 ## Other Test Days
-- Newport 17/03/23
-  - [Jordan](/Newport_170323_Jordan/) 
-  - [Nick](/Newport_170323_Nick/)
-  - [George](/Newport_170323_George/) 
-  - [Jack](/Newport_170323_Jack/)
-  - [Jason](/Newport_170323_Jason/)
 - Newport 16/03/23
-  - [Jason](/Newport_160323_Jason/)
-  - [George](/Newport_160323_George/) 
+  - [Jason](/Newport_160323_Rider1/)
 - Newport 30/11/22
   - [Rider 1](/Newport_301122_Rider1/)
   - [Rider 2](/Newport_301122_Rider2/)
