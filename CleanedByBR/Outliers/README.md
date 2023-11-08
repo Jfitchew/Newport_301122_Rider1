@@ -2,13 +2,18 @@
 - [Summary of Data Outliers](..\DataPeaks.html) 
 - [AirSpeed-Peaks](..\AirSpeed-Peaks.html)
 - [Cadence-Peaks](..\Cadence-Peaks.html)
+- [CadenceSpeed-Peaks](..\CadenceSpeed-Peaks.html)
 - [CdA-Peaks](..\CdA-Peaks.html)
 - [CrankAngleDelta-Peaks](..\CrankAngleDelta-Peaks.html)
+- [CrankSpeed-Peaks](..\CrankSpeed-Peaks.html)
 - [Drag-Peaks](..\Drag-Peaks.html)
 - [GroundSpeed-Peaks](..\GroundSpeed-Peaks.html)
+- [OdoCountSpeed-Peaks](..\OdoCountSpeed-Peaks.html)
+- [OdoRevTimeSpeed-Peaks](..\OdoRevTimeSpeed-Peaks.html)
 - [Orig_Ground_Speed-Peaks](..\Orig_Ground_Speed-Peaks.html)
 - [Power-Peaks](..\Power-Peaks.html)
 - [TotalWeight-Peaks](..\TotalWeight-Peaks.html)
 - [Total_P-Peaks](..\Total_P-Peaks.html)
+- [Weight-Peaks](..\Weight-Peaks.html)
 
 
