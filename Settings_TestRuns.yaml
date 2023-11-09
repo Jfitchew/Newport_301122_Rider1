@@ -4,27 +4,27 @@ Rider1:  # Riders Name
     ValidLaps: [5,6,7,8,9,10,11,12]
   R03: 
     Desc: 'Rod Only'
-    ValidLaps: [4,5,6,7,8,9,10,11,12]
+    ValidLaps: [4,5,6,7,8,9,10,11]
   R04:  
     Desc: '50mm Disc'
-    ValidLaps: [5,6,7,8,9,10,11,12]
+    ValidLaps: [6,7,8,9,10]
   R05:  
     Desc: '60mm Disc'
-    ValidLaps: [5,6,7,8,9,10,11,12]
+    ValidLaps: [5,6,7,8,9,10,11]
   R06:  
     Desc: 'Baseline 2'
-    ValidLaps: [5,6,7,8,9,10,11,12]
+    ValidLaps: [5,6,7,8,9,10,11]
   R07:  
     Desc: '80mm Disc'
-    ValidLaps: [3,4,5,6,7,8,9,10,11]
+    ValidLaps: [4,5,6,7,8,9,10]
   R08:  
     Desc: '100mm Disc'
-    ValidLaps: [4,5,6,7,8,9,10,11,12]
+    ValidLaps: [5,6,7,8,9,10,11]
   R09:  
     Desc: 'Baseline 3'
-    ValidLaps: [5,6,7,8,9,10,11,12]
+    ValidLaps: [5,6,7,8,9,10,11]
   R10:  
     Desc: 'Shuffle'
-    ValidLaps: [11,12,13,14,15,16,17,18]
+    ValidLaps: [8,9,10,11,12,13,14]
 
 
