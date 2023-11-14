@@ -7,9 +7,10 @@ ROD_DISC_WEIGHT: 0.25 # Rod with 2x T-Clamp = 183.1g, 100mm discs with T-Clamp =
 
 CRR: 0.0025           # BR setting (see summary.csv files)
 BIKE_DTL: 2.0         # Anna incorrectly set eta to 98% (see summary.csv files)! Normally 96% (as for BMC bike)
+AH_CF: 1.22           # Aerohead Rider Compensation Factor or Correction Factor
 
 # Wheel settings usually refer to the front wheel where the speed sensor is positioned 
-WHEEL_CIRC_ACTUAL: 2109 # measured on 16/3/23
+WHEEL_CIRC_ACTUAL: 2109 # 
 WHEEL_CIRC_BR_SETTING: 2105  # work this out from odo speed
 REAR_WHEEL_CIRC: 2100   # needed for determining speeds from cadence and crank angle delta
 CHAINRING: 53.0         # 
